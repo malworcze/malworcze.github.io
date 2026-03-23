@@ -11,3 +11,11 @@ pre-line {
 .outline {
   border: 1px solid #000;
 }
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%; /* Custom width */
+  max-width: 400px; /* Optional: Sets a maximum size in pixels */
+}
